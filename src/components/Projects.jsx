@@ -17,7 +17,7 @@ const projects = [
   },
 
   {
-    title: "AI Job Portal",
+    title: "AI Job Portal – Intelligent Recruitment Platform",
     description:
       "Developed an AI-powered job portal with recruiter and candidate dashboards, job management, applications, resume handling, AI mock interviews, and offer letter generation.",
     tech: [

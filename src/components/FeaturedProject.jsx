@@ -13,7 +13,7 @@ export default function FeaturedProject() {
 
 
         <h2 className="text-5xl font-bold mb-12">
-          AI Job Portal
+          AI Job Portal – Intelligent Recruitment Platform
         </h2>
 
 
